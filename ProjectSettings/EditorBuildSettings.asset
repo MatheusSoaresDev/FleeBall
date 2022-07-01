@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/scenes/loading.unity
+    guid: 15b84a9c335ed8a4d9784b35ee319950
+  - enabled: 0
+    path: Assets/scenes/login.unity
+    guid: 81c3eda46284c0d4bb8830dc20366d77
+  - enabled: 1
+    path: Assets/scenes/menu.unity
+    guid: c60fc909768feda4f83d8924847c92a3
+  - enabled: 1
+    path: Assets/scenes/menuSelect.unity
+    guid: 079d7dd25a85fbe42901ed1c8ee1fa0b
+  - enabled: 1
+    path: Assets/scenes/ranking.unity
+    guid: 2aeb17ffa5ea935449007701741b9928
+  - enabled: 1
+    path: Assets/scenes/Cenarios/Basket.unity
+    guid: 47b9ca74665756846bc879f24b157edb
+  - enabled: 1
+    path: Assets/scenes/Cenarios/Futsal.unity
+    guid: 8b427001d0756b145b53d2bab45d05a6
+  - enabled: 1
+    path: Assets/scenes/Cenarios/PingPong.unity
+    guid: efe86ad59f026814880b52bf418056eb
+  - enabled: 1
+    path: Assets/scenes/Cenarios/soccer.unity
+    guid: b2e03140bc39d9c49af589b837c55796
+  - enabled: 1
+    path: Assets/scenes/Cenarios/Tenis.unity
+    guid: 33ddc7a09bd63284aa7d36fa18f27ca2
+  - enabled: 1
+    path: Assets/scenes/Cenarios/Voley.unity
+    guid: d18fb8f4247924949aa589b000375849
+  - enabled: 1
+    path: Assets/scenes/gameover.unity
+    guid: 79295f763bbf3c546a915afd4c89ad2a
+  - enabled: 1
+    path: Assets/scenes/profile.unity
+    guid: 8ca9c48c41ad2f54ab409ef921437096
+  m_configObjects: {}
